@@ -14,7 +14,7 @@ Every spot that needs your real details is marked with a `REPLACE:` comment in `
 
 - **Hero stats**: years of experience, campaigns launched, average ROAS.
 - **Case studies**: the three projects are sample content. Swap in your real (or anonymized) clients, goals, tactics and results.
-- **About**: your bio, plus a headshot at `assets/headshot.jpg`.
+- **About**: your bio. The headshot lives at `assets/headshot.jpg`.
 - **Contact**: your email address and LinkedIn URL.
 
 Colors and fonts are tokens at the top of `styles.css` (`--accent`, `--font-display`, and so on).
